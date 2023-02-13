@@ -2,7 +2,6 @@
 
 Here we are curating anti-kidney cancer data from ChEMBL against different cell-line.
 
-For this work we have considered 12 fingerprints:
 
 |No             | cell line                   | Number  compounds    | Biological Activity      | Active Compounds     |
 | ------------- | -------------               |-------------         | ---------                | --------             |                                          
