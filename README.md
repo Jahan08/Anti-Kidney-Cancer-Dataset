@@ -3,7 +3,7 @@
 Here we are curating anti-kidney cancer data from ChEMBL against different cell-line.
 
 
-|No             | cell line                   | Number  compounds    | Biological Activity      | Active Compounds     |
+|No             | cell line                   | Number  compounds    | Biological Activity      | Active Compounds (with duplicate)     |
 | ------------- | -------------               |-------------         | ---------                | --------             |                                          
 |        1      |  RXF 944                    |  10                  |  IC50 (nM)               |     10               |           
 |        2      |  KETR3                      |  278                 |  IC50 (nM)               |     113              |
