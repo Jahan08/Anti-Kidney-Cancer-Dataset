@@ -1,1 +1,1 @@
-Here we collected compounds against ACHN 
+Here we collected compounds against ACHN cell line
