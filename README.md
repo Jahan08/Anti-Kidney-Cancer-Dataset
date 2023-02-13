@@ -9,9 +9,9 @@ Here we are curating anti-kidney cancer data from ChEMBL against different cell-
 |        2      |  KETR3                      |  278                 |  IC50 (nM)               |     113              |
 |        3      |  UO-31                      |  46051               |  IC50 (nM)               |     156              |
 |        4      |  ACHN                       |  49149               |  IC50 (nM)               |     1235             |    
-|        5      |  A498                       |                      |                          |             
-|        6      |                             |                      |                          |             
-|        7      |                             |                      |                          |             
+|        5      |  A498                       |  42589               |  IC50 (nM)               |     594              |        
+|        6      |  RXF 393                    |                      |                          |             
+|        7      |  TK-10                      |                      |                          |             
 |        8      |                             |                      |                          |             
 |        9      |                             |                      |                          |             
 |        10     |                             |                      |                          |             
