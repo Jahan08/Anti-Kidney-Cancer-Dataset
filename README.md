@@ -11,10 +11,6 @@ Here we are curating anti-kidney cancer data from ChEMBL against different cell-
 |        4      |  ACHN                       |  49149               |  IC50 (nM)               |     1235             |    
 |        5      |  A498                       |  42589               |  IC50 (nM)               |     594              |        
 |        6      |  RXF 393                    |  41788               |  IC50 (nM)               |     174              |
-|        7      |  TK-10                      |                      |                          |             
-|        8      |                             |                      |                          |             
-|        9      |                             |                      |                          |             
-|        10     |                             |                      |                          |             
-|        11     |                             |                      |                          |             
-|        12     |                             |                      |                          |     
+|        7      |  TK-10                      |  45402               |  IC50(nM)                |     193              |
+
 
